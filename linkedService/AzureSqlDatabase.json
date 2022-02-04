@@ -1,7 +1,0 @@
-{
-	"name": "AzureSqlDatabase",
-	"properties": {
-		"type": "AzureSqlDatabase",
-		"annotations": []
-	}
-}
