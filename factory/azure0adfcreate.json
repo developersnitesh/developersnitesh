@@ -1,0 +1,9 @@
+{
+	"name": "azure0adfcreate",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99151e29-04f3-43b5-8502-6772b2cb0cb9",
+		"tenantId": "55b6a033-0b2a-4358-8506-d75bc220cea2"
+	}
+}
